@@ -29,7 +29,7 @@ Hey kids, you may not understand all this at first, that’s OK! We’ll see exa
 
 * Text editor: A program that one uses to manipulate the source code for a program.
 
-* Shell: A tool for issuing commands directly to computer.
+* Shell: A tool for issuing commands directly to computer.-
 
 Getting Started with RUST. Rust is a programming language developed at mozilla. We can use the language to instruct the computer on what to do.
 
